@@ -20,15 +20,5 @@ while (countdown > 0) {
 function doWhileLoop(array){
   do {
     array.pop();
-  } while (array.length > -1 && maybe )
+  } while (array.length > -1 && maybeTrue())
 
-var i = 0;
-
-function incrementVariable(array) {
-  i = i + 1;
-  return i;
-}
-
-do {
-  console.log("doo-bee-doo-bee-doo");
-} while (incrementVariable() < 5);
