@@ -20,7 +20,7 @@ while (countdown > 0) {
 function doWhileLoop(array){
   do {
     array.pop();
-  }
+  } while 
 
 var i = 0;
 
