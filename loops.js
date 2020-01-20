@@ -17,11 +17,14 @@ while (countdown > 0) {
   return "done";
 }
 
-function doWhileLoop()
+function doWhileLoop(array){
+  do {
+    
+  }
 
 var i = 0;
 
-function incrementVariable() {
+function incrementVariable(array) {
   i = i + 1;
   return i;
 }
