@@ -17,7 +17,7 @@ while (countdown > 0) {
   return "done";
 }
 
-function doWhileLoop(array){
+function doWhileLoop(num){
   do {
     array.pop();
   } while (array.length > -1 && maybeTrue());
